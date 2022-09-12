@@ -7,6 +7,6 @@
 
 &nbsp;
 
-### Listas
+## Listas
 
-- [\_Lista 01\_]() - Sistema de Controle de Versão
+- [Lista 01]() - Sistema de Controle de Versão
