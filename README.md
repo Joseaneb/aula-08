@@ -9,4 +9,4 @@
 
 ## Listas
 
-- [Lista 01]() - Sistema de Controle de Versão
+- [Lista 01](lista-01) - Sistema de Controle de Versão
