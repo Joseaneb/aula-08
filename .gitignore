@@ -220,6 +220,9 @@ gradle-app.setting
 # Avoid ignore Gradle wrappper properties
 !gradle-wrapper.properties
 
+# Avoid ignore lib jar
+!libs/*.jar
+
 # Cache of project
 .gradletasknamecache
 
